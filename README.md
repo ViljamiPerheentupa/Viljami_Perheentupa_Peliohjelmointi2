@@ -1,4 +1,4 @@
-Unity Version 5.2.1
+Unreal Version 5.2.1
 
 To start the game: Click on the Start Game button. If the mouse cursor isn't visible, press Shift-F1 in the editor.
 In-Game: Use WASD to move and the Arrow Keys to shoot. If you have a controller, Right-Stick to move and Left-Stick to shoot.
